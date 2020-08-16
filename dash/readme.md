@@ -14,6 +14,20 @@ Dash apps are rendered in the web browser. You can deploy your apps to servers a
 pip install -r requirements.txt
 ```
 
+#### Run Examples
 ```
 python app-simple.py
+
+python app-simple-html.py
+
+python app-basic-interaction.py
+
+python app-hover-update.py
+
+python app-multiple-inputs.py
+
+python app-slider.py
+
+python app-cross-filter.py
+
 ```
