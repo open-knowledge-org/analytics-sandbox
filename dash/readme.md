@@ -20,14 +20,14 @@ python app-simple.py
 
 python app-simple-html.py
 
-python app-basic-interaction.py
+python app-basic-interaction.py 
 
 python app-hover-update.py
 
 python app-multiple-inputs.py
 
-python app-slider.py
+python app-slider.py 
 
-python app-cross-filter.py
+python app-cross-filter.py 
 
 ```
